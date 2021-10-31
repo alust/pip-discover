@@ -1,2 +1,2 @@
 from setuptools import setup
-setup(packages=['example-pkg'],)
+setup(packages=['example_pkg'],)
